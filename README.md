@@ -1,0 +1,1 @@
+My name is Madison Milton. I am a 5th year student at Mississippi State University studying Electrical Engineering. I am in Air Force ROTC and on track to commission into the Space Force in May 2025. In my free time I enjoy reading, spending time with my husband and friends, running, and playing with my cat Apollo. 
