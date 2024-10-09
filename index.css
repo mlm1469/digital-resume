@@ -1,0 +1,73 @@
+
+.header {
+  overflow: hidden;
+  background-color: #363737;
+  margin: 20px 20px;
+  text-align: center;
+  color: White;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+
+.header img {
+  height: 120px;
+  float: left;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+
+.body {
+  margin-left: 120px;
+  margin-right: 120px;
+} 
+
+
+.summary {
+  text-align: center;
+ 
+  text-decoration: none;
+  font-size: 24px;
+  font-weight:normal;
+  
+}
+
+.education {
+  text-align: center;
+  font-size: 24px;
+ 
+ 
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 24px;
+  text-align: center;
+  
+  
+
+}
+
+h2 {
+  font-weight: normal;
+  font-size: 24px;
+  text-align: center;
+  
+}
+
+hr {
+  color: black;
+}
+
+.AboutMe img {
+  height: 320px;
+  border-radius: 25px;
+  padding: 12px;
+  float: left;
+  margin-bottom: 120px;
+}
+
+
+
+
